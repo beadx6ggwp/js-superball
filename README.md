@@ -5,7 +5,7 @@
 
 ## 遊戲連結
 
-ver.0.2.3 : ![Link](https://davidhsu666.com/archives/js-superball/)
+ver.0.2.3 : [Link](https://davidhsu666.com/archives/js-superball/)
 
 ## 遊玩方式
 
